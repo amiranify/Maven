@@ -11,13 +11,8 @@
 
     <artifactId>api</artifactId>
     <packaging>jar</packaging>
+
     <dependencies>
-        <dependency>
-            <groupId>ru.netology</groupId>
-            <artifactId>service</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
         <dependency>
             <groupId>ru.netology</groupId>
             <artifactId>service</artifactId>
